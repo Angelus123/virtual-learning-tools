@@ -12,7 +12,7 @@
 
 * Install [git](https://git-scm.com/downloads)
 * Install [Node js](https://nodejs.org/en/)
-* Clone Repo [SLUUCORP](https://github.com/sluucorp/Startup-project.git)
+* Clone Repo [vilacoda](https://github.com/Angelus123/virtual-learning-tools.git)
 
 ## Step to run backend locally
 $ Move into backend folder
@@ -39,9 +39,3 @@ $ npm run dev
 ```
 $ npm run test
 ```
-## Documenting Api
-Check the port our server running on local like 3000 or 4000  port depends on user choice
-```
-$ http://localhost:3000/api/v1/api-docs/
-```
-
